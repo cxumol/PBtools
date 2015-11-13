@@ -1,0 +1,1 @@
+pyinstaller PBshenqi.py -w -D -i gkssy.ico
