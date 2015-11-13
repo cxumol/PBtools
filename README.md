@@ -2,8 +2,8 @@
 toolkit for schedule arrangements of bjfuvol
 
 ## environment
-win7 64bit
-python279
+- win7 64bit  
+- python279
 
 ## requirement
 when you run it via source code, make sure you have installed:
