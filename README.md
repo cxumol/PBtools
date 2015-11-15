@@ -1,5 +1,5 @@
 # PBtools  
-toolkit for schedule arrangements of bjfuvol
+toolkit for schedule arrangements of bjfuvol. You can download executable files at [this page](https://github.com/cxumol/PBtools/releases)
 
 ## Environment
 - win7 64bit  
